@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est TonPseudo !
+# 👋 Salut, moi c’est ThomasNoel20 !
 
 🎯 Développeur passionné par l’embarqué, le cloud et le C++  
 ⚡ J’adore bricoler du code, monter des serveurs et tester des technos  
@@ -15,14 +15,14 @@
 ---
 
 ## 📊 Stats GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasNoel20&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasNoel20&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 Contributions animées
-![snake gif](https://github.com/TonPseudo/TonPseudo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ThomasNoel20/ThomasNoel20/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
