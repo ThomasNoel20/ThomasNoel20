@@ -22,7 +22,7 @@
 ---
 
 ## 🐍 Contributions animées
-![snake gif](https://github.com/ThomasNoel20/ThomasNoel20/blob/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/ThomasNoel20/ThomasNoel20/output/snake.svg)
 
 ---
 
