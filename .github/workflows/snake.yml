@@ -1,12 +1,12 @@
 name: Generate Snake
 
 on:
-permissions:
-  contents: write
-
   schedule:
     - cron: "0 0 * * *" # tous les jours à minuit
   workflow_dispatch:    # permet de le lancer à la main
+
+permissions:
+  contents: write
 
 jobs:
   build:
